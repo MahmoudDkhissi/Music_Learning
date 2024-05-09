@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Septune/lib/jlayer-1.0.1.jar",
+        "Septune/lib/junit-4.10.jar"
+    ],
+
+    "java.configuration.runtimes": [
+        {
+            "name": "jre-1.8",
+            "path": "C:/Logiciels/Programmation/Java/jre-1.8",
+            "default": true
+        }
+    ]
+}
